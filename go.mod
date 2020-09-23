@@ -6,6 +6,7 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.0
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
 	github.com/Azure/go-autorest/autorest/validation v0.3.0 // indirect
+	github.com/UpCloudLtd/upcloud-go-api v0.0.0-20200923062849-02a65fe2fabb
 	github.com/abdullin/seq v0.0.0-20160510034733-d5467c17e7af // indirect
 	github.com/aws/aws-sdk-go v1.25.41
 	github.com/denverdino/aliyungo v0.0.0-20170926055100-d3308649c661
